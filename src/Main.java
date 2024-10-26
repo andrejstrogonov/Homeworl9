@@ -35,7 +35,7 @@ public class Main {
         System.out.println("Минимальная сумма трат за неделю составила " + minExpense + " рублей");
         System.out.println("Задание №3");
         int meanExpenses = sum/payments.length;
-        System.out.println("Средняя сумма трат за месяц составила " + meanExpenses/7 +" рублей");
+        System.out.println("Средняя сумма трат за месяц составила " + meanExpenses +" рублей");
 
         System.out.println("Задание №4");
         char[] reverseFullName = {'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
